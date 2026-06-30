@@ -14,7 +14,8 @@ public class ReverseArray {
             helper(arr, low + 1, high - 1);
         }
 
-        public static void reverse(int[] arr) {
+        public static void reverse(int[] arr)
+        {
             helper(arr, 0, arr.length - 1);
         }
 
