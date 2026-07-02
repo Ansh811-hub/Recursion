@@ -1,5 +1,4 @@
 package BASICRECURSION;
-
 import java.util.Scanner;
 
 public class FibonacciNumber {
